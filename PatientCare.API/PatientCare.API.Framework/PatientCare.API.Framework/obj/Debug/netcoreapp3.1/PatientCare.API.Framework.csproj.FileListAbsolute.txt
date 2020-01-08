@@ -1,0 +1,8 @@
+C:\Projects\JWD\PatientCare\PatientCare.API\Packages\PatientCare.API.Framework.1.0.1\netcoreapp3.1\PatientCare.API.Framework.deps.json
+C:\Projects\JWD\PatientCare\PatientCare.API\Packages\PatientCare.API.Framework.1.0.1\netcoreapp3.1\PatientCare.API.Framework.dll
+C:\Projects\JWD\PatientCare\PatientCare.API\Packages\PatientCare.API.Framework.1.0.1\netcoreapp3.1\PatientCare.API.Framework.pdb
+C:\Projects\JWD\PatientCare\PatientCare.API\PatientCare.API.Framework\PatientCare.API.Framework\obj\Debug\netcoreapp3.1\PatientCare.API.Framework.csprojAssemblyReference.cache
+C:\Projects\JWD\PatientCare\PatientCare.API\PatientCare.API.Framework\PatientCare.API.Framework\obj\Debug\netcoreapp3.1\PatientCare.API.Framework.AssemblyInfoInputs.cache
+C:\Projects\JWD\PatientCare\PatientCare.API\PatientCare.API.Framework\PatientCare.API.Framework\obj\Debug\netcoreapp3.1\PatientCare.API.Framework.AssemblyInfo.cs
+C:\Projects\JWD\PatientCare\PatientCare.API\PatientCare.API.Framework\PatientCare.API.Framework\obj\Debug\netcoreapp3.1\PatientCare.API.Framework.dll
+C:\Projects\JWD\PatientCare\PatientCare.API\PatientCare.API.Framework\PatientCare.API.Framework\obj\Debug\netcoreapp3.1\PatientCare.API.Framework.pdb

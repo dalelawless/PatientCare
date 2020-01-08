@@ -1,0 +1,1 @@
+INSERT INTO tblCities VALUES('Cannon Falls'); 

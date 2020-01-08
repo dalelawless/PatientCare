@@ -1,0 +1,16 @@
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\bin\Debug\netcoreapp2.2\HCES.Framework.UnitTests.deps.json
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\bin\Debug\netcoreapp2.2\HCES.Framework.UnitTests.runtimeconfig.json
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\bin\Debug\netcoreapp2.2\HCES.Framework.UnitTests.runtimeconfig.dev.json
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\bin\Debug\netcoreapp2.2\HCES.Framework.UnitTests.dll
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\bin\Debug\netcoreapp2.2\HCES.Framework.UnitTests.pdb
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\bin\Debug\netcoreapp2.2\HCES.Framework.dll
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\bin\Debug\netcoreapp2.2\HCES.Framework.pdb
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\obj\Debug\netcoreapp2.2\HCES.Framework.UnitTests.csprojAssemblyReference.cache
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\obj\Debug\netcoreapp2.2\HCES.Framework.UnitTests.AssemblyInfoInputs.cache
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\obj\Debug\netcoreapp2.2\HCES.Framework.UnitTests.AssemblyInfo.cs
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\obj\Debug\netcoreapp2.2\HCES.Framework.UnitTests.csproj.CopyComplete
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\obj\Debug\netcoreapp2.2\HCES.Framework.UnitTests.dll
+C:\Projects\HCES\HCES.Framework\HCES.Framework.UnitTests\obj\Debug\netcoreapp2.2\HCES.Framework.UnitTests.pdb

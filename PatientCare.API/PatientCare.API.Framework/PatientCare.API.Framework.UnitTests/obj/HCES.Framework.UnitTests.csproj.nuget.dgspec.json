@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\HCES.Framework\\HCES.Framework.UnitTests\\HCES.Framework.UnitTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\HCES.Framework\\HCES.Framework.UnitTests\\HCES.Framework.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\HCES.Framework\\HCES.Framework.UnitTests\\HCES.Framework.UnitTests.csproj",
+        "projectName": "HCES.Framework.UnitTests",
+        "projectPath": "D:\\Projects\\HCES.Framework\\HCES.Framework.UnitTests\\HCES.Framework.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\dalel\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\HCES.Framework\\HCES.Framework.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dalel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Projects\\HCES.Framework\\HCES.Framework\\HCES.Framework.csproj": {
+                "projectPath": "D:\\Projects\\HCES.Framework\\HCES.Framework\\HCES.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Projects\\HCES.Framework\\HCES.Framework\\HCES.Framework.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\HCES.Framework\\HCES.Framework\\HCES.Framework.csproj",
+        "projectName": "HCES.Framework",
+        "projectPath": "D:\\Projects\\HCES.Framework\\HCES.Framework\\HCES.Framework.csproj",
+        "packagesPath": "C:\\Users\\dalel\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\HCES.Framework\\HCES.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dalel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

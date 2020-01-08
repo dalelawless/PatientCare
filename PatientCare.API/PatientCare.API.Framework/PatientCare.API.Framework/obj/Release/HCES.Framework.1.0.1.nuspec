@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HCES.Framework</id>
+    <version>1.0.1</version>
+    <authors>Dale.C.Lawless</authors>
+    <owners>Dale.C.Lawless</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">License.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Health Partners - Health Care Engagement System Framework</description>
+    <copyright>Copyright © 2019 Health Partners.com, all rights reserverd...</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="Ardalis.GuardClauses" version="1.2.9" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="2.2.6" exclude="Build,Analyzers" />
+        <dependency id="Oracle.EntityFrameworkCore" version="2.19.30" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\projects\HCES\Packages\HCES.Framework.1.0.1\netcoreapp2.2\HCES.Framework.dll" target="lib\netcoreapp2.2\HCES.Framework.dll" />
+    <file src="C:\Projects\HCES\HCES.Framework\HCES.Framework\License.txt" target="License.txt" />
+  </files>
+</package>

@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Dale.C.Lawless</Authors>
+    <Company>JWD Consulting Services</Company>
+    <Description>JWD Consulting Services - Patient Care API Framework</Description>
+    <Copyright>Copyright © 2020 JWD Consulting Services.com, all rights reserverd...</Copyright>
+    <PackageLicenseFile>License.txt</PackageLicenseFile>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\Packages\PatientCare.API.Framework.1.0.1\</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>C:\projects\HCES\Packages\PatientCare.API.Framework.1.0.1\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ardalis.GuardClauses" Version="1.2.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
+    <PackageReference Include="Oracle.EntityFrameworkCore" Version="2.19.30" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="License.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+</Project>

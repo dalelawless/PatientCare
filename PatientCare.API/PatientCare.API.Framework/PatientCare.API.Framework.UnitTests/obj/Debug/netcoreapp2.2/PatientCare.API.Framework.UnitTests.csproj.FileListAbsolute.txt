@@ -1,0 +1,3 @@
+C:\Projects\JWD\PatientCare\PatientCare.API\PatientCare.API.Framework\PatientCare.API.Framework.UnitTests\obj\Debug\netcoreapp2.2\PatientCare.API.Framework.UnitTests.csprojAssemblyReference.cache
+C:\Projects\JWD\PatientCare\PatientCare.API\PatientCare.API.Framework\PatientCare.API.Framework.UnitTests\obj\Debug\netcoreapp2.2\PatientCare.API.Framework.UnitTests.AssemblyInfoInputs.cache
+C:\Projects\JWD\PatientCare\PatientCare.API\PatientCare.API.Framework\PatientCare.API.Framework.UnitTests\obj\Debug\netcoreapp2.2\PatientCare.API.Framework.UnitTests.AssemblyInfo.cs

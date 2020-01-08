@@ -1,0 +1,8 @@
+C:\Projects\HCES\Packages\HCES.Framework.1.0.1\netcoreapp2.2\HCES.Framework.deps.json
+C:\Projects\HCES\Packages\HCES.Framework.1.0.1\netcoreapp2.2\HCES.Framework.dll
+C:\Projects\HCES\Packages\HCES.Framework.1.0.1\netcoreapp2.2\HCES.Framework.pdb
+C:\Projects\HCES\HCES.Framework\HCES.Framework\obj\Debug\netcoreapp2.2\HCES.Framework.csprojAssemblyReference.cache
+C:\Projects\HCES\HCES.Framework\HCES.Framework\obj\Debug\netcoreapp2.2\HCES.Framework.AssemblyInfoInputs.cache
+C:\Projects\HCES\HCES.Framework\HCES.Framework\obj\Debug\netcoreapp2.2\HCES.Framework.AssemblyInfo.cs
+C:\Projects\HCES\HCES.Framework\HCES.Framework\obj\Debug\netcoreapp2.2\HCES.Framework.dll
+C:\Projects\HCES\HCES.Framework\HCES.Framework\obj\Debug\netcoreapp2.2\HCES.Framework.pdb

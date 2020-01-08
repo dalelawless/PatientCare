@@ -1,0 +1,1 @@
+INSERT INTO dbo.tblPatient VALUES('Dale', 'C', 'Lawless','101 Southwood Dr','','Cannon Falls','MN','55009','Goodhue','United States','Male','Married','dalelawless@jwdconsulting.com','12/20/1963');  
